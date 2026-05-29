@@ -21,6 +21,8 @@ This project is a small SMS spam classification workflow built with Python, pand
 
 The raw dataset contains SMS messages labeled as:
 
+Dataset source: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
 - `ham` = legitimate message
 - `spam` = unwanted promotional or scam message
 
