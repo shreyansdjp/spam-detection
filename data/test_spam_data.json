@@ -1,0 +1,87 @@
+[
+    {
+        "id": 0,
+        "email_text": "Hey, Last chance. There are just a few hours left to grab a massive 60% off your first order. Take 60% off plugins and sounds with the coupon code: FIRST60 Offer ends imminently.",
+        "label": "spam"
+    },
+    {
+        "id": 1,
+        "email_text": "Congratulations! You have won a $1000 Amazon gift card. Click here to claim your prize now.",
+        "label": "spam"
+    },
+    {
+        "id": 2,
+        "email_text": "Urgent! Your bank account has been suspended. Verify your details immediately to avoid closure.",
+        "label": "spam"
+    },
+    {
+        "id": 3,
+        "email_text": "Limited time offer! Buy one get three free. Order today before stock runs out.",
+        "label": "spam"
+    },
+    {
+        "id": 4,
+        "email_text": "You have been selected for a free vacation package. Claim your reward now.",
+        "label": "spam"
+    },
+    {
+        "id": 5,
+        "email_text": "Earn $5000 per week working from home. No experience required. Sign up today.",
+        "label": "spam"
+    },
+    {
+        "id": 6,
+        "email_text": "Dear customer, your package delivery failed. Click the link below to reschedule.",
+        "label": "spam"
+    },
+    {
+        "id": 7,
+        "email_text": "Act now! Lowest mortgage rates available. Pre-approved instantly with no credit check.",
+        "label": "spam"
+    },
+    {
+        "id": 8,
+        "email_text": "Exclusive deal just for you. Get 90% off luxury watches while supplies last.",
+        "label": "spam"
+    },
+    {
+        "id": 9,
+        "email_text": "Your account has been compromised. Login immediately to secure your information.",
+        "label": "spam"
+    },
+    {
+        "id": 10,
+        "email_text": "You are our lucky winner! Claim your cash reward before midnight.",
+        "label": "spam"
+    },
+    {
+        "id": 11,
+        "email_text": "Meeting reminder: The project review is scheduled for tomorrow at 2 PM.",
+        "label": "ham"
+    },
+    {
+        "id": 12,
+        "email_text": "Hi John, attached is the updated report you requested. Let me know your feedback.",
+        "label": "ham"
+    },
+    {
+        "id": 13,
+        "email_text": "Thank you for your purchase. Your order will be delivered within 3 business days.",
+        "label": "ham"
+    },
+    {
+        "id": 14,
+        "email_text": "Team lunch has been moved to Friday afternoon. Please update your calendar.",
+        "label": "ham"
+    },
+    {
+        "id": 15,
+        "email_text": "Here are the notes from today's client meeting. Feel free to add any comments.",
+        "label": "ham"
+    },
+    {
+        "id": 16,
+        "email_text": "Winner, off, Congratulations, free",
+        "label": "spam"
+    }
+]
